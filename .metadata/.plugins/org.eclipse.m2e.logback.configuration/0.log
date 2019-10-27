@@ -35,3 +35,7 @@
 2019-10-26 17:25:07,077 [Worker-20: Building Project TeamDestroyah] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of TeamDestroyah
 2019-10-26 17:25:07,077 [Worker-20: Building Project TeamDestroyah] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for TeamDestroyah
 2019-10-26 17:25:07,089 [Worker-20: Building Project TeamDestroyah] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-10-26 17:26:00,196 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-10-26 17:26:00,208 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-10-26 17:26:00,209 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-10-26 17:26:00,225 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
